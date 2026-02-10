@@ -53,7 +53,6 @@ function startOver(){
 }
 
 
-
 function nextSequence(){
 
     userClickedPattern = [];
